@@ -2,15 +2,11 @@
 
 This isn’t just a GitHub space. It’s a quiet command center where systems meet precision, identity meets control, and automation becomes second nature.
 
----
-
 ## 🧠 Who I Am
 
 I operate where support meets strategy and identity becomes governance. A specialist in IT infrastructure and identity automation — not just fixing things, but shaping how they are controlled, accessed, and secured.
 
 I work in environments where clarity and control are paramount, translating complex systems into consistent outcomes that just work.
-
----
 
 ## 🔐 Capabilities
 
@@ -28,8 +24,6 @@ I don’t just support — I **stabilize and elevate**.
 - Identity lifecycle orchestration
 - Governance workflows that enforce compliance
 
----
-
 ## 🏆 Credentials
 
 These are proof of depth — not just breadth:
@@ -43,8 +37,6 @@ These are proof of depth — not just breadth:
 - AI integration with Azure systems
 - Code refactoring for maintainability
 
----
-
 ## 🧩 What This Space Represents
 
 Here, logic and systems converge. Expect:
@@ -53,8 +45,6 @@ Here, logic and systems converge. Expect:
 - Concepts that sharpen workflows
 
 What’s here reflects a **mindset** — not a checklist.
-
----
 
 ## 🤔 Still Figuring It Out
 

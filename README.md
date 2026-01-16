@@ -1,52 +1,70 @@
 # 🌌 Stardrix
 
-This isn’t just a GitHub space. It’s a quiet command center where systems meet precision, identity meets control, and automation becomes second nature.
+This is not just a GitHub space. It is a quiet command center where systems meet precision, identity meets control, and automation becomes second nature.
+
+![Omada](https://img.shields.io/badge/Omada-Identity%20Suite-darkblue)
+![IAM](https://img.shields.io/badge/IAM-Identity%20Access%20Management-black)
+![IGA](https://img.shields.io/badge/IGA-Governance-darkred)
 
 ## 🧠 Who I Am
 
-I operate where support meets strategy and identity becomes governance. A specialist in IT infrastructure and identity automation — not just fixing things, but shaping how they are controlled, accessed, and secured.
+I operate where support meets strategy and identity becomes governance. A specialist in IT infrastructure and identity automation, not just fixing issues, but shaping how access, control, and systems are structured.
 
-I work in environments where clarity and control are paramount, translating complex systems into consistent outcomes that just work.
+I work in environments where clarity and control matter, translating complex platforms into stable and repeatable outcomes.
+
+**Primary platforms**
+
+![Windows](https://img.shields.io/badge/Windows-Admin-0078D6)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0089D6)
+![Active%20Directory](https://img.shields.io/badge/Active%20Directory-Security-003366)
+![Office365](https://img.shields.io/badge/Office365-Enterprise-D83B01)
 
 ## 🔐 Capabilities
 
-I don’t just support — I **stabilize and elevate**.
+I do not just support systems. I stabilize and elevate them.
 
-**Support & Systems**
+**Support and Systems**
 - Tactical remote and phone support under pressure
-- Ticket mastery via ServiceNow
-- Microsoft ecosystem: Windows, Azure, AD, Office 365, RDP, Citrix
-- ITIL-aligned operational discipline
-- Networking fundamentals
+- Ticket handling and process flow through ServiceNow
+- Microsoft ecosystem support including Windows, Azure, Active Directory, Office 365, RDP, and Citrix
+- ITIL aligned operational discipline
+- Solid understanding of networking fundamentals
 
-**Identity & Governance**
-- Omada Identity Suite (v12 → v14.3)
+**Identity and Governance**
+- Omada Identity Suite from v12 to v14.3
 - Identity lifecycle orchestration
-- Governance workflows that enforce compliance
+- Governance workflows enforcing access control and compliance
 
 ## 🏆 Credentials
 
-These are proof of depth — not just breadth:
+These represent depth, not decoration.
+
 - Omada Foundation Professional certified
-- CCNA for Routing, Scaling & Essentials
-- Real world training with CA Identity Suite and PowerShell
+- CCNA Routing and Switching Essentials
+- CCNA Routing and Switching Scaling Networks
+- Practical training with CA Identity Suite and PowerShell
 
 **Azure Training**
-- Cloud fundamentals
-- Streaming & data flows
-- AI integration with Azure systems
-- Code refactoring for maintainability
+- Cloud concepts
+- Designing and documenting data flows
+- Building streaming data pipelines
+- Creating and integrating AI with Azure services
+- Refactoring code for maintainability
 
 ## 🧩 What This Space Represents
 
-Here, logic and systems converge. Expect:
-- Scripts that automate repetitive friction
-- Tools that tame identity sprawl
-- Concepts that sharpen workflows
+This repository reflects a mindset rather than a checklist.
 
-What’s here reflects a **mindset** — not a checklist.
+Here you will find:
+- Scripts that remove friction
+- Tools that bring structure to identity sprawl
+- Concepts that improve operational clarity
+
+Everything here exists for a reason.
 
 ## 🤔 Still Figuring It Out
 
-I haven’t fully decided if this GitHub is for **serious, work-driven tools** or just **playground experiments**, blurring the line between passion and profession. That uncertainty is part of the journey.
+I am still deciding whether this GitHub is primarily for serious work driven tooling, experimental learning, or simply a playground where curiosity and profession overlap. That uncertainty is intentional.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/stardrix/stardrix)
+![Profile views](https://komarev.com/ghpvc/?username=stardrix&color=grey)

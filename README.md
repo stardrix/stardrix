@@ -62,6 +62,19 @@ Here you will find:
 
 Everything here exists for a reason.
 
+## ⚙️ Projects
+
+Beyond identity and infrastructure, I build commercial automation tools for the Steam trading ecosystem.
+
+**[SteamTradeBots.com](https://www.steamtradebots.com/)** — the platform behind the bots. License management, listings, and live rate feeds.
+
+| Project | Release | Description |
+|---|---|---|
+| [Steam Card Bot](https://github.com/stardrix/steam-card-bot-releases) | [![Latest Release](https://img.shields.io/github/v/release/stardrix/steam-card-bot-releases?label=&style=flat-square)](https://github.com/stardrix/steam-card-bot-releases/releases/latest) | Multi-bot dashboard for automated Steam trading card set trading |
+| [Steam Gem Bot](https://github.com/stardrix/steam-gem-bot-releases) | [![Latest Release](https://img.shields.io/github/v/release/stardrix/steam-gem-bot-releases?label=&style=flat-square)](https://github.com/stardrix/steam-gem-bot-releases/releases/latest) | Automated gem and key trading bot with full desktop dashboard |
+
+Built on Electron, Node.js, and the Steam API. Windows and Linux supported.
+
 ## 🤔 Still Figuring It Out
 
 I am still deciding whether this GitHub is primarily for serious work driven tooling, experimental learning, or simply a playground where curiosity and profession overlap. That uncertainty is intentional.

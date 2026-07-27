@@ -72,6 +72,8 @@ Beyond identity and infrastructure, I build commercial automation tools for the 
 |---|---|---|
 | [Steam Card Bot](https://github.com/stardrix/steam-card-bot-releases) | [![Latest Release](https://img.shields.io/github/v/release/stardrix/steam-card-bot-releases?label=&style=flat-square)](https://github.com/stardrix/steam-card-bot-releases/releases/latest) | Multi-bot dashboard for automated Steam trading card set trading |
 | [Steam Gem Bot](https://github.com/stardrix/steam-gem-bot-releases) | [![Latest Release](https://img.shields.io/github/v/release/stardrix/steam-gem-bot-releases?label=&style=flat-square&color=ff69b4)](https://github.com/stardrix/steam-gem-bot-releases/releases/latest) | Automated gem and key trading bot with full desktop dashboard |
+| [Steam Swap Bot](https://github.com/stardrix/steam-swap-bot-releases) | [![Latest Release](https://img.shields.io/github/v/release/stardrix/steam-swap-bot-releases?label=&style=flat-square&color=a855f7)](https://github.com/stardrix/steam-swap-bot-releases/releases/latest) | Automated 1:1 same-set trading card swap bot, no keys or currency |
+
 
 
 Built on Electron, Node.js, and the Steam API. Windows and Linux supported.
